@@ -1,6 +1,7 @@
 # CS 205 Final: Guess Who
 ### Laura Banaszewski, Scotti Day, James Putnam
 
+### NOTE: Original project used GitLab
 
 ## Late Work Changes
 
