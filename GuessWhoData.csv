@@ -1,0 +1,25 @@
+pk,professor,department,college,location,glasses,hair_color,hat,sex,facial_hair
+1,byung lee,computer science,cems,school bus ball,yes,black,no,male,no
+2,bob erickson,computer science,cems,school bus ball,no,grey,yes,male,no
+3,jim eddy,computer science,cems,school bus ball,yes,brown,no,male,no
+4,lisa dion,computer science,cems,school bus ball,no,brown,no,female,no
+5,jackie horton,computer science,cems,school bus ball,no,blonde,yes,female,no
+6,joe near,computer science,cems,school bus ball,yes,brown,no,male,yes
+7,jason hibbeler,computer science,cems,catamount statue,yes,grey,yes,male,no
+8,christian skalka,computer science,cems,catamount statue,yes,grey,yes,male,no
+9,radha dasari,computer science,cems,catamount statue,yes,black,no,male,yes
+10,laura marthaler,computer science,cems,catamount statue,no,blonde,no,female,no
+11,joshua bongard,computer science,cems,catamount statue,no,grey,no,male,yes
+12,joseph kudrle,mathematics,cems,catamount statue,no,brown,yes,male,no
+13,joan rosebush,mathematics,cems,95 million dollar sports arena,no,blonde,no,female,no
+14,jeremiah onaolapo,computer science,cems,95 million dollar sports arena,no,black,no,male,no
+15,laurent hebert-dufresne,computer science,cems,95 million dollar sports arena,yes,brown,no,male,no
+16,david darais,computer science,cems,95 million dollar sports arena,no,brown,yes,male,no
+17,katherine merrill,statistics,cems,95 million dollar sports arena,no,brown,no,female,no
+18,linda schadler,dean,cems,95 million dollar sports arena,no,brown,yes,female,no
+19,kc williams,asst. dean,cems,delehanty hall,yes,black,no,female,no
+20,alan ling,computer science,cems,delehanty hall,yes,black,no,male,no
+21,karen benway,statistics,cems,delehanty hall,yes,brown,no,female,no
+22,chris danforth,mathematics,cems,delehanty hall,no,brown,no,male,yes
+23,taras lakoba,mathematics,cems,delehanty hall,no,black,no,male,yes
+24,puck rombach,mathematics,cems,delehanty hall,no,brown,no,female,no
